@@ -1,5 +1,5 @@
 # 1Sem_ExerciciosC
-Avaliação de Algoritmo e Lógica de Programação - 1°Semestre
+Avaliação de Algoritmo e Lógica de Programação - 1°Semestre/2020
 
 1.Considere uma loja que, ao fazer o cálculo do valor a ser pago em uma compra, dá um desconto de acordo com o número de unidades compradas, conforme a seguinte tabela:
 até 10 unidades	0%
